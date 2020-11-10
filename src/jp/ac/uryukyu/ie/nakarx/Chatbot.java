@@ -4,7 +4,7 @@ public class Chatbot {
     String name = "default";
 
     public Chatbot(){
-        System.out.println("chatbotの原型を作成します。");
+        System.out.println("chatbotの原型を作成しますん。");
     }
     public Chatbot(String _name){
         this.name = _name;
